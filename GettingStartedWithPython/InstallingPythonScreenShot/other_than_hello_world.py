@@ -1,0 +1,1 @@
+print("Other than hello world")

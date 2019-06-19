@@ -1,0 +1,4 @@
+PATH=$PATH:/c/Users/Koban/AppData/Local/Programs/Python/Python36-32
+python --version
+
+cd ~/Desktop/CourseraPython/GettingStartedWithPython/InstallingPythonScreenshot
