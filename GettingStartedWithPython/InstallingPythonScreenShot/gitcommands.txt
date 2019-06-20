@@ -1,4 +1,11 @@
 PATH=$PATH:/c/Users/Koban/AppData/Local/Programs/Python/Python36-32
 python --version
 
+##############
+PIP INSTALL
+##############
+PATH=$PATH:/c/Users/Koban/AppData/Local/Programs/Python/Python36-32/Scripts
+pip install lxml
+
+
 cd ~/Desktop/CourseraPython/GettingStartedWithPython/InstallingPythonScreenshot
